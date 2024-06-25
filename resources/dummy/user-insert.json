@@ -1,0 +1,12 @@
+{
+    "data": {
+        "nama": "adrien",
+        "nisn": "7812937882732",
+        "alamat": "asd",
+        "tanggal_lahir": "2024-06-11",
+        "id_kelas": "2",
+        "email": "awillms@example.org",
+        "password": "password",
+        "confirm": "password"
+    }
+}
